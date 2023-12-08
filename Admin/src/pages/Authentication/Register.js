@@ -209,7 +209,7 @@ useEffect(() => {
               <div className="mt-5 text-center">
                 <p>
                   Already have an account ?{" "}
-                  <Link to="/login" className="font-weight-medium text-primary">
+                  <Link to="/pages-login-2" className="font-weight-medium text-primary">
                     {" "}
                     Login
                   </Link>{" "}

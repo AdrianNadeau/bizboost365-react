@@ -127,7 +127,7 @@ const Settings = () => {
                 </div>
               </div>
 
-              <Row className="justify-content-center">
+              {/* <Row className="justify-content-center">
                 <Col xl={10}>
                   <h4 className="text-primary">Subscribe !</h4>
                   <p className="text-muted font-size-14 mb-4">
@@ -153,7 +153,7 @@ const Settings = () => {
                     </div>
                   </div>
                 </Col>
-              </Row>
+              </Row> */}
             </div>
           </CardBody>
         </Card>

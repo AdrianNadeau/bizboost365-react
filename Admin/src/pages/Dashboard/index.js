@@ -71,11 +71,11 @@ const Dashboard = props => {
     },
   ];
 
-  useEffect(() => {
-    setTimeout(() => {
-      setSubscribemodal(true);
-    }, 2000);
-  }, []);
+  // useEffect(() => {
+  //   setTimeout(() => {
+  //     setSubscribemodal(true);
+  //   }, 2000);
+  // }, []);
 
   const [periodData, setPeriodData] = useState([]);
   const [periodType, setPeriodType] = useState("yearly");
@@ -235,15 +235,15 @@ const Dashboard = props => {
           setSubscribemodal(!subscribemodal);
         }}
       >
-        <div>
+        {/* <div>
           <ModalHeader
             className="border-bottom-0"
             toggle={() => {
               setSubscribemodal(!subscribemodal);
             }}
           ></ModalHeader>
-        </div>
-        <div className="modal-body">
+        </div> */}
+        {/* <div className="modal-body">
           <div className="text-center mb-4">
             <div className="avatar-md mx-auto mb-4">
               <div className="avatar-title bg-light  rounded-circle text-primary h1">
@@ -273,7 +273,7 @@ const Dashboard = props => {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
       </Modal>
 
       <Modal
