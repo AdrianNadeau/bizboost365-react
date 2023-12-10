@@ -62,12 +62,13 @@ const fakeBackend = () => {
   const mock = new MockAdapter(axios, { onNoMatch: "passthrough" })
 
   mock.onPost(url.POST_FAKE_REGISTER).reply(config => {
+    console.log("display data for register:",url.POST_FAKE_REGISTER)
     const user = JSON.parse(config["data"])
     users.push(user)
     return new Promise((resolve, reject) => {
-      setTimeout(() => {
-        resolve([200, user])
-      })
+      // setTimeout(() => {
+      //   resolve([200, user])
+      // })
     })
   })
 
@@ -105,9 +106,9 @@ const fakeBackend = () => {
     users.push(user)
 
     return new Promise((resolve, reject) => {
-      setTimeout(() => {
-        resolve([200, user])
-      })
+      // setTimeout(() => {
+      //   resolve([200, user])
+      // }) 
     })
   })
 
