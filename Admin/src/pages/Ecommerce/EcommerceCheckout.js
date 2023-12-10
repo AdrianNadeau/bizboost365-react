@@ -64,7 +64,7 @@ const orderSummary = [
 const EcommerceCheckout = () => {
 
   //meta title
-  document.title="Checkout | Skote - React Admin & Dashboard Template";
+  document.title="Checkout | BizBoost365 - Maximize Productivity, Minimize Effort.";
 
   const [activeTab, setactiveTab] = useState("1")
   const [selectedGroup, setselectedGroup] = useState(null)

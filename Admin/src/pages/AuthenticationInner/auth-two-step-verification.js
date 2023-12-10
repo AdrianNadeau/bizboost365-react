@@ -19,7 +19,7 @@ import logolight from "../../assets/images/logo-light.png"
 const TwostepVerification = () => {
 
   //meta title
-  document.title = "Two Step Verification | Skote - React Admin & Dashboard Template";
+  document.title = "Two Step Verification | BizBoost365 - Maximize Productivity, Minimize Effort.";
 
   return (
     <React.Fragment>
@@ -42,7 +42,7 @@ const TwostepVerification = () => {
                     className="auth-logo-light mx-auto"
                   />
                 </Link>
-                <p className="mt-3">React Admin & Dashboard Template</p>
+                <p className="mt-3">Maximize Productivity, Minimize Effort.</p>
               </div>
             </Col>
           </Row>
@@ -136,7 +136,7 @@ const TwostepVerification = () => {
                   </a>{" "}
                 </p>
                 <p>
-                  © {new Date().getFullYear()} Skote. Crafted with{" "}
+                  © {new Date().getFullYear()} BizBoost365. Crafted with{" "}
                   <i className="mdi mdi-heart text-danger"></i> by Themesbrand
                 </p>
               </div>

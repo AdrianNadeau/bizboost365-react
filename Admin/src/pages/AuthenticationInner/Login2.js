@@ -15,7 +15,7 @@ const Login2 = () => {
   const [passwordShow, setPasswordShow] = useState(false);
 
   //meta title
-  document.title = "Login 2 | Skote - React Admin & Dashboard Template";
+  document.title = "Login 2 | BizBoost365 - Maximize Productivity, Minimize Effort.";
 
   // Form validation 
   const validation = useFormik({
@@ -64,7 +64,7 @@ const Login2 = () => {
                       <div>
                         <h5 className="text-primary">Welcome Back !</h5>
                         <p className="text-muted">
-                          Sign in to continue to Skote.
+                          Sign in to continue to BizBoost365.
                         </p>
                       </div>
 
@@ -183,7 +183,7 @@ const Login2 = () => {
                           <p>
                             Don&apos;t have an account ?
                             <Link
-                              to="pages-register-2"
+                              to="/pages-register-2"
                               className="fw-medium text-primary"
                             >
                               Signup now
@@ -195,7 +195,7 @@ const Login2 = () => {
 
                     <div className="mt-4 mt-md-5 text-center">
                       <p className="mb-0">
-                        © {new Date().getFullYear()} Skote. Crafted with{" "}
+                        © {new Date().getFullYear()} BizBoost365. Crafted with{" "}
                         <i className="mdi mdi-heart text-danger"></i> by
                         Themesbrand
                       </p>

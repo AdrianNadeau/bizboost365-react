@@ -58,7 +58,7 @@ import { handleSearchData } from "components/Common/searchFile";
 const Chat = () => {
 
   //meta title
-  document.title = "Chat | Skote - React Admin & Dashboard Template";
+  document.title = "Chat | BizBoost365 - Maximize Productivity, Minimize Effort.";
 
   const dispatch = useDispatch();
 
@@ -252,7 +252,7 @@ const Chat = () => {
       <div className="page-content">
         <Container fluid>
           {/* Render Breadcrumb */}
-          <Breadcrumbs title="Skote" breadcrumbItem="Chat" />
+          <Breadcrumbs title="BizBoost365" breadcrumbItem="Chat" />
 
           <Row>
             <Col lg="12">

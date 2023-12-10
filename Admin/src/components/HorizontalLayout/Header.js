@@ -297,7 +297,7 @@ const Header = props => {
               </div>
             </div>
 
-            <LanguageDropdown />
+            {/* <LanguageDropdown /> */}
 
             <Dropdown
               className="d-none d-lg-inline-block ms-1"
@@ -306,14 +306,14 @@ const Header = props => {
                 setsocialDrp(!socialDrp);
               }}
             >
-              <DropdownToggle
+              {/* <DropdownToggle
                 className="btn header-item noti-icon "
                 caret
                 tag="button"
               >
                 <i className="bx bx-customize" />
-              </DropdownToggle>
-              <DropdownMenu className="dropdown-menu-lg dropdown-menu-end">
+              </DropdownToggle> */}
+              {/* <DropdownMenu className="dropdown-menu-lg dropdown-menu-end">
                 <div className="px-lg-2">
                   <Row className="no-gutters">
                     <Col>
@@ -356,7 +356,7 @@ const Header = props => {
                     </Col>
                   </Row>
                 </div>
-              </DropdownMenu>
+              </DropdownMenu> */}
             </Dropdown>
 
             <div className="dropdown d-none d-lg-inline-block ms-1">

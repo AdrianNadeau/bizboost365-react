@@ -12,7 +12,7 @@ import CarouselPage from "./CarouselPage";
 const Recoverpw2 = () => {
 
   //meta title
-  document.title="Recover Password 2 | Skote - React Admin & Dashboard Template";
+  document.title="Recover Password 2 | BizBoost365 - Maximize Productivity, Minimize Effort.";
 
   const validation = useFormik({
     // enableReinitialize : use this flag when initial values needs to be changed
@@ -56,7 +56,7 @@ const Recoverpw2 = () => {
                     <div className="my-auto">
                       <div>
                         <h5 className="text-primary"> Reset Password</h5>
-                        <p className="text-muted">Reset Password with Skote.</p>
+                        <p className="text-muted">Reset Password with BizBoost365.</p>
                       </div>
 
                       <div className="mt-4">
@@ -117,7 +117,7 @@ const Recoverpw2 = () => {
                     </div>
                     <div className="mt-4 mt-md-5 text-center">
                       <p className="mb-0">
-                        © {new Date().getFullYear()} Skote. Crafted with{" "}
+                        © {new Date().getFullYear()} BizBoost365. Crafted with{" "}
                         <i className="mdi mdi-heart text-danger"></i> by
                         Themesbrand
                       </p>

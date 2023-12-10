@@ -56,7 +56,7 @@ const Layout = (props) => {
     let currentage = title.charAt(1).toUpperCase() + title.slice(2);
 
     document.title =
-      currentage + " | Skote - React Admin & Dashboard Template";
+      currentage + " | BizBoost365 - Maximize Productivity, Minimize Effort.";
   }, [pathName.pathname]);
 
   useEffect(() => {

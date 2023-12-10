@@ -256,7 +256,7 @@ const Navbar = props => {
                 </li>
 
                 <li className="nav-item dropdown">
-                  <Link
+                  {/* <Link
                     to="/#"
                     onClick={e => {
                       e.preventDefault();
@@ -266,7 +266,7 @@ const Navbar = props => {
                   >
                     <i className="bx bx-customize me-2"></i>
                     {props.t("Apps")} <div className="arrow-down"></div>
-                  </Link>
+                  </Link> */}
                   <div className={classname("dropdown-menu", { show: app })}>
                     <Link to="/calendar" className="dropdown-item">
                       {props.t("Calendar")}

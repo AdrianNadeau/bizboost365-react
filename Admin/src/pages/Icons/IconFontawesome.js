@@ -59,7 +59,7 @@ const IconFontawesome = props => {
   })
 
   //meta title
-  document.title = "Font awesome | Skote - React Admin & Dashboard Template";
+  document.title = "Font awesome | BizBoost365 - Maximize Productivity, Minimize Effort.";
 
   return (
     <React.Fragment>

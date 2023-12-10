@@ -2,9 +2,11 @@ import React from "react";
 import { Navigate } from "react-router-dom";
 
 const Authmiddleware = (props) => {
+
   if (!localStorage.getItem("authUser")) {
+    //user is not logged in or have session
     return (
-      <Navigate to={{ pathname: "/login", state: { from: props.location } }} />
+      <Navigate to={{ pathname: "/pages-login-2", state: { from: props.location } }} />
     );
   }
   return (<React.Fragment>

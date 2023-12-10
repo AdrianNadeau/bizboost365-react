@@ -14,7 +14,7 @@ import Breadcrumbs from "../../components/Common/Breadcrumb";
 const UiTypography = () => {
 
   //meta title
-  document.title = "Typography | Skote - React Admin & Dashboard Template";
+  document.title = "Typography | BizBoost365 - Maximize Productivity, Minimize Effort.";
 
   return (
     <React.Fragment>

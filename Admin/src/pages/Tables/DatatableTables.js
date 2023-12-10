@@ -257,7 +257,7 @@ function DatatableTables() {
     ];
 
     //meta title
-    document.title = "Data Tables | Skote - React Admin & Dashboard Template";
+    document.title = "Data Tables | BizBoost365 - Maximize Productivity, Minimize Effort.";
 
     return (
         <div className="page-content">

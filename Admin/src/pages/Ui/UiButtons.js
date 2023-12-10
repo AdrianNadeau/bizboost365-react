@@ -16,7 +16,7 @@ import Breadcrumbs from "../../components/Common/Breadcrumb";
 const UiButtons = () => {
 
   //meta title
-  document.title = "Buttons | Skote - React Admin & Dashboard Template";
+  document.title = "Buttons | BizBoost365 - Maximize Productivity, Minimize Effort.";
 
   const [drp_link, setdrp_link] = useState(false);
 

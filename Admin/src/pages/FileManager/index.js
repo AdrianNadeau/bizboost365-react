@@ -13,7 +13,7 @@ import Storage from "./Storage";
 const Index = () => {
 
   //meta title
-  document.title = "File Manager | Skote - React Admin & Dashboard Template";
+  document.title = "File Manager | BizBoost365 - Maximize Productivity, Minimize Effort.";
 
   const series = [76]
   const options = {

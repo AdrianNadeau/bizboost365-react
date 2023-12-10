@@ -41,7 +41,7 @@ const PagesTimeline = () => {
   ];
 
   //meta title
-  document.title = "Timeline | Skote - React Admin & Dashboard Template";
+  document.title = "Timeline | BizBoost365 - Maximize Productivity, Minimize Effort.";
 
   return (
     <React.Fragment>

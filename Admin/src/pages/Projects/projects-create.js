@@ -17,7 +17,7 @@ import moment from "moment";
 const ProjectsCreate = () => {
 
   //meta title
-  document.title = "Create New Project | Skote - React Admin & Dashboard Template";
+  document.title = "Create New Project | BizBoost365 - Maximize Productivity, Minimize Effort.";
 
   const [selectedFiles, setselectedFiles] = useState([]);
 

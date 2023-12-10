@@ -95,7 +95,7 @@ const Dashboard = props => {
   }, [dispatch]);
 
   //meta title
-  document.title = "Dashboard | Skote - React Admin & Dashboard Template";
+  document.title = "Dashboard | BizBoost365 - Maximize Productivity, Minimize Effort.";
 
   return (
     <React.Fragment>

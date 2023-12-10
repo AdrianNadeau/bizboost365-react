@@ -16,7 +16,7 @@ import { Link } from "react-router-dom";
 const LockScreen = () => {
 
   //meta title
-  document.title="Lock Screen 2 | Skote - React Admin & Dashboard Template";
+  document.title="Lock Screen 2 | BizBoost365 - Maximize Productivity, Minimize Effort.";
 
   const validation = useFormik({
     // enableReinitialize : use this flag when initial values needs to be changed
@@ -141,7 +141,7 @@ const LockScreen = () => {
                   </Link>{" "}
                 </p>
                 <p>
-                  © {(new Date().getFullYear())} Skote. Crafted with{" "}
+                  © {(new Date().getFullYear())} BizBoost365. Crafted with{" "}
                   <i className="mdi mdi-heart text-danger" /> by Themesbrand
                 </p>
               </div>

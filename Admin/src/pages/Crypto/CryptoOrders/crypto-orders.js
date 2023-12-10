@@ -39,7 +39,7 @@ import Spinners from "components/Common/Spinner";
 const CryptoOrders = props => {
 
   //meta title
-  document.title = "Orders | Skote - React Admin & Dashboard Template";
+  document.title = "Orders | BizBoost365 - Maximize Productivity, Minimize Effort.";
 
   const { orders, onGetOrders, loading } = props;
   const [activeTab, setActiveTab] = useState("1");

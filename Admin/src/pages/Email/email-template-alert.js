@@ -7,7 +7,7 @@ import Breadcrumbs from "../../components/Common/Breadcrumb"
 
 const EmailAlertTemplte = props => {
   //meta title
-  document.title="Alert Email | Skote - React Admin & Dashboard Template";
+  document.title="Alert Email | BizBoost365 - Maximize Productivity, Minimize Effort.";
   return (
     <React.Fragment>
       <div className="page-content">
@@ -307,7 +307,7 @@ const EmailAlertTemplte = props => {
                                         }}
                                         valign="top"
                                       >
-                                        Thanks for choosing <b>Skote</b>{" "}
+                                        Thanks for choosing <b>BizBoost365</b>{" "}
                                         Admin.
                                       </td>
                                     </tr>
@@ -333,7 +333,7 @@ const EmailAlertTemplte = props => {
                                         }}
                                         valign="top"
                                       >
-                                        <b>Skote</b>
+                                        <b>BizBoost365</b>
                                         <p>Support Team</p>
                                       </td>
                                     </tr>
@@ -361,7 +361,7 @@ const EmailAlertTemplte = props => {
                                         }}
                                         valign="top"
                                       >
-                                        © {new Date().getFullYear()} Skote
+                                        © {new Date().getFullYear()} BizBoost365
                                       </td>
                                     </tr>
                                   </tbody>

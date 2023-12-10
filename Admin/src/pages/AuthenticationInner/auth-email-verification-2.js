@@ -8,7 +8,7 @@ import { Col, Container, Row } from "reactstrap"
 
 const EmailVerification2 = () => {
     //meta title
-    document.title="Email Verification 2 | Skote - React Admin & Dashboard Template";
+    document.title="Email Verification 2 | BizBoost365 - Maximize Productivity, Minimize Effort.";
   return (
     <React.Fragment>
       <div>
@@ -66,7 +66,7 @@ const EmailVerification2 = () => {
 
                     <div className="mt-4 mt-md-5 text-center">
                       <p className="mb-0">
-                        © {new Date().getFullYear()} Skote. Crafted with{" "}
+                        © {new Date().getFullYear()} BizBoost365. Crafted with{" "}
                         <i className="mdi mdi-heart text-danger"></i> by
                           Themesbrand
                         </p>

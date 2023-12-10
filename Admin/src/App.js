@@ -42,6 +42,7 @@ fakeBackend();
 
 
 const getLayout = (layoutType) => {
+  // TODO: get saved layout for user
   let Layout = VerticalLayout;
   switch (layoutType) {
     case layoutTypes.VERTICAL:

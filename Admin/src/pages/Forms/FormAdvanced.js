@@ -146,7 +146,7 @@ const optionGroup2 = [
 const FormAdvanced = () => {
 
   //meta title
-  document.title = "Form Advanced | Skote - React Admin & Dashboard Template"
+  document.title = "Form Advanced | BizBoost365 - Maximize Productivity, Minimize Effort."
 
   const [sq1, setsq1] = useState(true);
   const [sq2, setsq2] = useState(true);

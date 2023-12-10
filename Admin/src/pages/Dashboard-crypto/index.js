@@ -112,7 +112,7 @@ const Dashboard = () => {
   ];
 
   //meta title
-  document.title = "Crypto Dashboard | Skote - React Admin & Dashboard Template";
+  document.title = "Crypto Dashboard | BizBoost365 - Maximize Productivity, Minimize Effort.";
 
   return (
     <React.Fragment>

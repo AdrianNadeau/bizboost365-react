@@ -48,7 +48,7 @@ import Spinners from "components/Common/Spinner";
 const EmailInbox = props => {
 
   //meta title
-  document.title = "Inbox | Skote - React Admin & Dashboard Template";
+  document.title = "Inbox | BizBoost365 - Maximize Productivity, Minimize Effort.";
 
   const dispatch = useDispatch();
 
@@ -230,7 +230,7 @@ const EmailInbox = props => {
                           <img
                             className="d-flex me-3 rounded-circle"
                             src={item.imageSrc}
-                            alt="skote"
+                            alt="BizBoost365"
                             height="36"
                           />
                         </div>

@@ -57,7 +57,7 @@ import { ToastContainer } from "react-toastify";
 const EcommerceCustomers = () => {
 
   //meta title
-  document.title = "Customers | Skote - React Admin & Dashboard Template";
+  document.title = "Customers | BizBoost365 - Maximize Productivity, Minimize Effort.";
 
   const dispatch = useDispatch();
 

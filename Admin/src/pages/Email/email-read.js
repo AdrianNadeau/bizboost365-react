@@ -16,7 +16,7 @@ import EmailSideBar from "./email-sidebar";
 const EmailRead = () => {
 
    //meta title
-  document.title="Read Email | Skote - React Admin & Dashboard Template";
+  document.title="Read Email | BizBoost365 - Maximize Productivity, Minimize Effort.";
 
   return (
     <React.Fragment>
@@ -37,7 +37,7 @@ const EmailRead = () => {
                       <img
                         className="d-flex me-3 rounded-circle avatar-sm"
                         src={avatar2}
-                        alt="skote"
+                        alt="BizBoost365"
                       />
                       <div className="flex-grow-1">
                         <h5 className="font-size-14 mt-1">
@@ -76,7 +76,7 @@ const EmailRead = () => {
                           <img
                             className="card-img-top img-fluid"
                             src={img3}
-                            alt="skote"
+                            alt="BizBoost365"
                           />
                           <div className="py-2 text-center">
                             <Link to="" className="fw-medium">
@@ -90,7 +90,7 @@ const EmailRead = () => {
                           <img
                             className="card-img-top img-fluid"
                             src={img4}
-                            alt="skote"
+                            alt="BizBoost365"
                           />
                           <div className="py-2 text-center">
                             <Link to="" className="fw-medium">

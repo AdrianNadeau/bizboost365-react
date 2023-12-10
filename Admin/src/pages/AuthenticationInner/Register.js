@@ -16,7 +16,7 @@ import lightlogo from "../../assets/images/logo-light.svg";
 const Register = () => {
 
   //meta title
-  document.title="Register | Skote - React Admin & Dashboard Template";
+  document.title="Register | BizBoost365 - Maximize Productivity, Minimize Effort.";
 
   //form validation
   const validation = useFormik({
@@ -48,7 +48,7 @@ const Register = () => {
                     <Col className="col-7">
                       <div className="text-primary p-4">
                         <h5 className="text-primary">Free Register</h5>
-                        <p>Get your free Skote account now.</p>
+                        <p>Get your free BizBoost365 account now.</p>
                       </div>
                     </Col>
                     <Col className="col-5 align-self-end">
@@ -190,7 +190,7 @@ const Register = () => {
 
                       <div className="mt-4 text-center">
                         <p className="mb-0">
-                          By registering you agree to the Skote{" "}
+                          By registering you agree to the BizBoost365{" "}
                           <Link to="#" className="text-primary">
                             Terms of Use
                           </Link>
@@ -212,7 +212,7 @@ const Register = () => {
                   </Link>{" "}
                 </p>
                 <p>
-                  © {new Date().getFullYear()} Skote. Crafted with{" "}
+                  © {new Date().getFullYear()} BizBoost365. Crafted with{" "}
                   <i className="mdi mdi-heart text-danger" /> by Themesbrand
                 </p>
               </div>

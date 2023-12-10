@@ -6,7 +6,7 @@ import Breadcrumbs from "../../components/Common/Breadcrumb";
 
 const EmailTemplateBilling = props => {
    //meta title
-   document.title="Billing Email | Skote - React Admin & Dashboard Template";
+   document.title="Billing Email | BizBoost365 - Maximize Productivity, Minimize Effort.";
   return (
     <React.Fragment>
       <div className="page-content">
@@ -174,7 +174,7 @@ const EmailTemplateBilling = props => {
                                           Thanks for using{" "}
                                           <b style={{ fontWeight: "600" }}>
                                             {" "}
-                                            SKOTE
+                                            BizBoost365
                                           </b>
                                           .
                                         </h2>
@@ -582,7 +582,7 @@ const EmailTemplateBilling = props => {
                                         align="center"
                                         valign="top"
                                       >
-                                        Skote Inc. 2896 Howell Rd,
+                                        BizBoost365 Inc. 2896 Howell Rd,
                                         Russellville, AR, 72823
                                       </td>
                                     </tr>
@@ -610,7 +610,7 @@ const EmailTemplateBilling = props => {
                                         }}
                                         valign="top"
                                       >
-                                        © {new Date().getFullYear()} Skote
+                                        © {new Date().getFullYear()} BizBoost365
                                       </td>
                                     </tr>
                                   </tbody>

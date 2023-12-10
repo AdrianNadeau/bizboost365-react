@@ -24,7 +24,7 @@ import Breadcrumbs from "../../components/Common/Breadcrumb";
 const UiCarousel = () => {
 
   //meta title
-  document.title = "Carousel | Skote - React Admin & Dashboard Template";
+  document.title = "Carousel | BizBoost365 - Maximize Productivity, Minimize Effort.";
 
   return (
     <React.Fragment>

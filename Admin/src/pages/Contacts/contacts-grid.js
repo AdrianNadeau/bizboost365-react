@@ -20,7 +20,7 @@ import Spinners from "components/Common/Spinner";
 const ContactsGrid = () => {
 
   //meta title
-  document.title = "User Grid | Skote - React Admin & Dashboard Template";
+  document.title = "User Grid | BizBoost365 - Maximize Productivity, Minimize Effort.";
 
   const dispatch = useDispatch();
 

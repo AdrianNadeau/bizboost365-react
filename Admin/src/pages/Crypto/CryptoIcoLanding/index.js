@@ -15,7 +15,7 @@ import Footer from "./Footer/footer"
 const CryptoIcoLanding = () => {
   
   //meta title
-  document.title="ICO Landing | Skote - React Admin & Dashboard Template";
+  document.title="ICO Landing | BizBoost365 - Maximize Productivity, Minimize Effort.";
 
   const [imglight, setimglight] = useState(true);
   const [navClass, setnavClass] = useState("");

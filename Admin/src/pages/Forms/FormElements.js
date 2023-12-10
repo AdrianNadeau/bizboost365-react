@@ -17,7 +17,7 @@ import Breadcrumbs from "../../components/Common/Breadcrumb"
 const FormElements = () => {
 
   //meta title
-  document.title = "Form Elements | Skote - React Admin & Dashboard Template"
+  document.title = "Form Elements | BizBoost365 - Maximize Productivity, Minimize Effort."
 
   const [customchkPrimary, setcustomchkPrimary] = useState(true);
   const [customchkSuccess, setcustomchkSuccess] = useState(true);

@@ -16,7 +16,7 @@ import Breadcrumbs from "../../components/Common/Breadcrumb"
 const UiGrid = () => {
 
   //meta title
-  document.title = "Grid | Skote - React Admin & Dashboard Template";
+  document.title = "Grid | BizBoost365 - Maximize Productivity, Minimize Effort.";
 
   return (
     <React.Fragment>

@@ -9,7 +9,7 @@ import logolight from "../../assets/images/logo-light.png"
 const EmailVerification = () => {
 
   //meta title
-  document.title="Email Verification | Skote - React Admin & Dashboard Template";
+  document.title="Email Verification | BizBoost365 - Maximize Productivity, Minimize Effort.";
 
   return (
     <React.Fragment>
@@ -32,7 +32,7 @@ const EmailVerification = () => {
                     className="auth-logo-light mx-auto"
                   />
                 </Link>
-                <p className="mt-3">React Admin & Dashboard Template</p>
+                <p className="mt-3">Maximize Productivity, Minimize Effort.</p>
               </div>
             </Col>
           </Row>
@@ -78,7 +78,7 @@ const EmailVerification = () => {
                   </a>{" "}
                 </p>
                 <p>
-                  © {new Date().getFullYear()} Skote. Crafted with{" "}
+                  © {new Date().getFullYear()} BizBoost365. Crafted with{" "}
                   <i className="mdi mdi-heart text-danger"></i> by Themesbrand
                 </p>
               </div>

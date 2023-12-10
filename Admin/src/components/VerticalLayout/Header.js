@@ -127,14 +127,14 @@ const Header = props => {
                 setmegaMenu(!megaMenu);
               }}
             >
-              <DropdownToggle
+              {/* <DropdownToggle
                 className="btn header-item "
                 caret
                 tag="button"
               >
                 {" "}
                 {props.t("Mega Menu")} <i className="mdi mdi-chevron-down" />
-              </DropdownToggle>
+              </DropdownToggle> */}
               <DropdownMenu className="dropdown-megamenu">
                 <Row>
                   <Col sm={8}>
@@ -310,9 +310,9 @@ const Header = props => {
               </div>
             </div>
 
-            <LanguageDropdown />
+            {/* <LanguageDropdown /> */}
 
-            <Dropdown
+            {/* <Dropdown
               className="d-none d-lg-inline-block ms-1"
               isOpen={socialDrp}
               toggle={() => {
@@ -370,7 +370,7 @@ const Header = props => {
                   </Row>
                 </div>
               </DropdownMenu>
-            </Dropdown>
+            </Dropdown> */}
 
             <div className="dropdown d-none d-lg-inline-block ms-1">
               <button

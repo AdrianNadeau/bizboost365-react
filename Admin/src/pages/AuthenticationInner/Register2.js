@@ -14,7 +14,7 @@ import CarouselPage from "./CarouselPage";
 const Register2 = () => {
 
   //meta title
-  document.title="Register 2 | Skote - React Admin & Dashboard Template";
+  document.title="Register 2 | BizBoost365 - Maximize Productivity, Minimize Effort.";
 
   //form validation
   const validation = useFormik({
@@ -65,7 +65,7 @@ const Register2 = () => {
                       <div>
                         <h5 className="text-primary">Register account</h5>
                         <p className="text-muted">
-                          Get your free Skote account now.
+                          Get your free BizBoost365 account now.
                         </p>
                       </div>
 
@@ -135,7 +135,7 @@ const Register2 = () => {
 
                           <div>
                             <p className="mb-0">
-                              By registering you agree to the Skote{" "}
+                              By registering you agree to the BizBoost365{" "}
                               <a href="#" className="text-primary">
                                 Terms of Use
                               </a>
@@ -192,12 +192,11 @@ const Register2 = () => {
                           <p>
                             Already have an account ?{" "}
                             <Link
-                              to="pages-login-2"
+                              to="/pages-login-2"
                               className="fw-medium text-primary"
                             >
-                              {" "}
                               Login
-                            </Link>{" "}
+                            </Link>
                           </p>
                         </div>
                       </div>
@@ -207,7 +206,7 @@ const Register2 = () => {
                       <p className="mb-0">
                         ©{" "}
                         { new Date().getFullYear()}
-                        Skote. Crafted with{" "}
+                        BizBoost365. Crafted with{" "}
                         <i className="mdi mdi-heart text-danger"></i> by
                         Themesbrand
                       </p>

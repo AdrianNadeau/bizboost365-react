@@ -12,7 +12,7 @@ import Section from './Section';
 import StatisticsApplications from './StatisticsApplications';
 
 const DashboardJob = () => {
-    document.title = "Job Dashboard | Skote - React Admin & Dashboard Template"
+    document.title = "Job Dashboard | BizBoost365 - Maximize Productivity, Minimize Effort."
     const chartsData = [
         {
             id: 1,

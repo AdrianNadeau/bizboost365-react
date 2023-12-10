@@ -70,7 +70,7 @@ const ProjectStatus = ({ status }) => {
 const ProjectsList = () => {
 
   //meta title
-  document.title = "Project List | Skote - React Admin & Dashboard Template";
+  document.title = "Project List | BizBoost365 - Maximize Productivity, Minimize Effort.";
 
   const dispatch = useDispatch();
   const [project, setProject] = useState();

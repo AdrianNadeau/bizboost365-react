@@ -6,7 +6,7 @@ import Breadcrumbs from "components/Common/Breadcrumb"
 import JobData from "./JobData"
 
 const JobGrid = () => {
-  document.title = "Jobs Grid | Skote - React Admin & Dashboard Template"
+  document.title = "Jobs Grid | BizBoost365 - Maximize Productivity, Minimize Effort."
 
   return (
     <React.Fragment>
